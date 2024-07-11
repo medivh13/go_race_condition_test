@@ -14,6 +14,8 @@ Make sure you have Go installed on your machine. You can download it from golang
 
     ```sh
     cd go_race_condition_test
+    and then do go mod tidy
+
     ```
 
 3. **Run the server:**
